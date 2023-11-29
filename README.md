@@ -19,6 +19,7 @@ Upon completion, you’ll be able to accelerate and optimize existing C/C++ CPU-
 <a name="certificate"></a>
 ## Certificate
 
-The certificate for the workshop can be found below:
+The certificates for the workshops can be found below:
 
 ["Fundamentals of Accelerated Computing with CUDA C/C++" - NVIDIA Deep Learning Institute](https://courses.nvidia.com/certificates/d7e6b079cc1d448287de4d88f9b42a06/) (Issued On: November 2023)
+["Deep Learning and GPU programming workshop" - LRZ: Leibniz Supercomputing Centre](https://github.com/HROlive/Fundamentals-of-Accelerated-Computing-with-CUDA-C-Cpp/blob/main/images/certificate.pdf) (Issued On: November 2023)
